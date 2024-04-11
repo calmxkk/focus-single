@@ -1,3 +1,6 @@
+DROP DATABASE IF EXISTS focus;
+CREATE DATABASE focus;
+
 use focus;
 
 SET NAMES utf8mb4;
